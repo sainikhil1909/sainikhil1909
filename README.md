@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sai-nikhil-palla-1a02662a7/
+- LinkedIn: www.linkedin.com/in/sai-nikhil-palla-19042003p
 
 ---
 

@@ -10,7 +10,7 @@
 
 - 💻 Languages: Python, Java, JavaScript  
 - 🌐 Frontend: HTML, CSS, React  
-- 🛠 Backend: Python  
+- 🛠 Backend: Python, Express JS  
 - 🗄 Databases: MySQL, MongoDB  
 - ⚙️ Tools: Git, GitHub  
 

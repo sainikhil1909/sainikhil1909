@@ -45,7 +45,7 @@
 ⭐ *Always learning, always building!*
 
 -->
-# Hi, I'm Sai Nikhil 👋
+# Hi, I'm Sai Nikhil Palla 👋
 
 Full Stack Developer with a background in Artificial Intelligence and Machine Learning, focused on building responsive web applications and practical machine learning solutions. I enjoy creating software that combines clean design, efficient backend systems, and intuitive user experiences.
 

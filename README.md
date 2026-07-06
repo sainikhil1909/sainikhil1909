@@ -112,7 +112,7 @@ A computer vision application that recognizes sign language alphabets in real ti
 - Built with Python, OpenCV, MediaPipe, and TensorFlow
 - Converts detected gestures into readable alphabet output
 
-> 🔗 **Repository:** *(Add your repository link here)*
+> 🔗 **Repository:** https://github.com/sainikhil1909/Sign-language-detection
 
 
 
@@ -127,7 +127,7 @@ A machine learning application that analyzes social media text to identify indic
 - Flask web application
 - Social media text analysis
 
-> 🔗 **Repository:** *(Add your repository link here)*
+> 🔗 **Repository:** https://github.com/sainikhil1909/Stress-and-depression-using-ML
 
 ---
 

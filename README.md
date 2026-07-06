@@ -99,18 +99,6 @@ I enjoy developing responsive user interfaces, designing robust backend systems,
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sainikhil1909&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainikhil1909&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sainikhil1909&theme=tokyonight" />
-</p>
-
----
 
 ## 📌 Featured Projects
 

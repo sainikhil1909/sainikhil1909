@@ -139,7 +139,7 @@ I'm actively improving my projects and expanding my GitHub portfolio. My goal is
 
 ## 📚 Currently Learning
 
-- TypeScript
+- FastAPI
 - Advanced React.js
 - System Design
 - REST API Best Practices
